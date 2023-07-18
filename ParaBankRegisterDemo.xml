@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Para Bank Automation Suite">
+  <test name="ParaBank RegisterDemo Flow">
+    <classes>
+      <class name="com.para.bank.testcase.ParaBankRegisterDemo"/>
+    </classes>
+  </test> <!-- ParaBank RegisterDemo Flow -->
+</suite> <!-- Para Bank Automation Suite -->

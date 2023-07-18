@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Para Bank Automation Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="ParaBank RegisterDemo Flow(failed)" verbose="0">
+    <classes>
+      <class name="com.para.bank.testcase.ParaBankRegisterDemo">
+        <methods>
+          <include name="validateSuccessfulMessage"/>
+          <include name="logoutUser"/>
+        </methods>
+      </class> <!-- com.para.bank.testcase.ParaBankRegisterDemo -->
+    </classes>
+  </test> <!-- ParaBank RegisterDemo Flow(failed) -->
+</suite> <!-- Failed suite [Para Bank Automation Suite] -->
