@@ -4,6 +4,8 @@
   <test name="ParaBank RegisterDemo Flow">
     <classes>
       <class name="com.para.bank.testcase.ParaBankRegisterDemo"/>
+
+      
     </classes>
   </test> <!-- ParaBank RegisterDemo Flow -->
 </suite> <!-- Para Bank Automation Suite -->
